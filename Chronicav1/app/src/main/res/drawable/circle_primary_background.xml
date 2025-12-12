@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/circle_primary_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Color de fondo morado (color primary) -->
+    <solid android:color="#5E35B1"/>
+
+    <!-- Tamaño fijo (opcional, se puede controlar desde el layout) -->
+    <size
+        android:width="48dp"
+        android:height="48dp"/>
+
+</shape>
